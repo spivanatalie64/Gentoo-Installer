@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Gentoo Installer
+Comment=A GTK-based installer for Gentoo Linux
+Exec=/home/gentoo/Gentoo-Installer/run.sh
+Icon=system-installer
+Terminal=false
+Type=Application
+Categories=System;
